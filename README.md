@@ -24,6 +24,3 @@ Below is the list of each program file and a brief explanation of its role:
 
 ## Authors
 *[**Brennan Sprague**](https://github.com/b-Sprague) - "Creator"
-
-## License
-This project is licensed under the Apache License Version 2.0 - see the [LICENSE](LICENSE) file for details.
